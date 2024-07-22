@@ -1,0 +1,26 @@
+.colorNav {
+    background-color: #E83E8C!important;
+}
+
+.stylePago{
+    background-color:#17A2B8!important;
+    font-size: 3rem;
+    color: white;
+}
+
+nav div a img {
+    width: 8rem;
+}
+
+section div h1{
+    color:#707070;
+}
+
+@media(max-width: 576px){
+
+    .anchoCentrarPequeno{width: 18rem;}
+}
+
+footer div{
+    width:5rem;
+}
